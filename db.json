@@ -1,0 +1,183 @@
+{
+    "status":"success",
+    "error":false,
+    "messege":"Data Fetched Success",
+    "shouts": [
+        {
+            "id":1,
+            "uid":"@AlimIbneMorshed",
+            "name":"Alim Ibne Morshed",
+            "position":"Advocate",
+            "profilePic":"https://media.istockphoto.com/id/1341347262/photo/portrait-smiling-african-american-businessman-in-blue-suit-sit-at-table-for-meeting-in-office.jpg",
+            "shoutText":"The rule of law is a fundamental principle of modern societies, under which all individuals, including government officials, are accountable to the law. It ensures that justice is delivered in a fair and transparent manner and that citizens are protected from arbitrary or unjust treatment by those in positions of power.",
+            "shoutImage": [
+                "https://siteimages.simplified.com/blog/The-Most-Attractive-Youtube-Thumbnail.png",
+                "https://workchest.com/users/services/80944/medium/UPDATED%20AMAZING%20copy.jpg",
+                "https://img.freepik.com/premium-psd/youtube-video-thumbnail-start-trading-today_475351-168.jpg"
+            ],
+            "thums":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "comments": [
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg",
+                    "comment":"Joss"
+                },
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg",
+                    "comment":"Right"
+                }
+            ],
+            "reShouts":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "reach":5000
+        },
+
+        {
+            "id":2,
+            "uid":"@BaristerShumon",
+            "name":"Barister Shumon",
+            "position":"Barister",
+            "profilePic":"https://prod-media-eng.dhakatribune.com/uploads/2019/07/web-barrister-sayedul-haque-sumon-1563789027030.jpg",
+            "shoutText":"The rule of law is essential for the functioning of democratic societies. It helps to maintain stability and order by providing a framework for the peaceful resolution of disputes and the protection of individual rights. It also ensures that the government is held accountable for its actions and that it is subject to the same laws as everyone else.",
+            "shoutImage": [
+                "https://siteimages.simplified.com/blog/The-Most-Attractive-Youtube-Thumbnail.png",
+                "https://workchest.com/users/services/80944/medium/UPDATED%20AMAZING%20copy.jpg",
+                "https://img.freepik.com/premium-psd/youtube-video-thumbnail-start-trading-today_475351-168.jpg"
+            ],
+            "thums":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "comments": [
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg",
+                    "comment":"Joss"
+                },
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg",
+                    "comment":"Right"
+                }
+            ],
+            "reShouts":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "reach":5000
+        },
+
+        {
+            "id":2,
+            "uid":"@BaristerNuzhath",
+            "name":"Barister Nuzhath Islam",
+            "position":"Barister",
+            "profilePic":"https://legalcounselbd.com/wp-content/uploads/2020/12/BARRISTER-NUZHATH-ISLAM.jpg",
+            "shoutText":"বিধির গুরুত্ব আধুনিক সমাজের একটি মৌলিক সিদ্ধান্ত। এর আওতায় সকল ব্যক্তি, সরকার কর্মচারী সহ সবাই আইনের প্রতি দায়ী এবং প্রতিষ্ঠান হতে পারে। এর মাধ্যমে ন্যায্যতা একটি নির্দিষ্ট নিয়ম মেনে পাওয়া হয় এবং নাগরিকদের ক্ষতিগ্রস্ত হওয়া থেকে বাঁচানো হয়।",
+            "shoutImage": [
+                "https://siteimages.simplified.com/blog/The-Most-Attractive-Youtube-Thumbnail.png",
+                "https://workchest.com/users/services/80944/medium/UPDATED%20AMAZING%20copy.jpg",
+                "https://img.freepik.com/premium-psd/youtube-video-thumbnail-start-trading-today_475351-168.jpg"
+            ],
+            "thums":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "comments": [
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg",
+                    "comment":"Joss"
+                },
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg",
+                    "comment":"Right"
+                }
+            ],
+            "reShouts":[
+                {
+                    "uid":"@JashimKabir",
+                    "name":"Jashim Kabir",
+                    "position":"Barister",
+                    "profilePic":"https://i.pinimg.com/564x/31/44/7e/31447e25b7bc3429f83520350ed13c15.jpg"
+                },
+                {
+                    "uid":"@IbneKarim",
+                    "name":"Karim Ibne Talha",
+                    "position":"George",
+                    "profilePic":"https://thumbs.dreamstime.com/b/confident-black-business-man-stylish-suit-standing-folded-arms-rooftop-n-office-block-looking-camera-69650703.jpg"
+                }
+            ],
+            "reach":5000
+        }
+    ]
+}
